@@ -39,7 +39,15 @@ iii)	# Find the element in a list using Binary Search (recursive Method).
 
 
 ```
-## Sample Input and Output
+##Output
+###Linear Search
+![output](vli.png)
+
+###Binary Search Iteration Method
+![output](vit.png)
+
+###Binary Search Recursive Method
+![output](vrec.png)
 
 
 
